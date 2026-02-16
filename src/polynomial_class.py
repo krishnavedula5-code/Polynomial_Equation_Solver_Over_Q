@@ -1,4 +1,4 @@
-#This class defines how to find addition, subtraction,quotient,remainder,Derivative, Evaluation of polynomials
+#This class defines how to find addition, subtraction,Derivative, Evaluation of polynomials
 from fractions import Fraction
 
 # any other imports
