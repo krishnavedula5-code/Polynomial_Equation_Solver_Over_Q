@@ -1,3 +1,5 @@
+from polynomial_class import Polynomial
+
 def poly_division(f, g):
 
     if g.coeffs == [0]:
