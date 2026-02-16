@@ -1,3 +1,4 @@
+from src.polynomial_division import poly_division
 def poly_gcd(f, g):
 
     while g.degree() >= 0:
