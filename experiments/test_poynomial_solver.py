@@ -1,5 +1,5 @@
 from src.polynomial_class import polynomial
-from src.gcd import gcd
+from src.gcd import poly_gcd
 from src.polynomial_division import poly_division
 
 f = Polynomial([1, 0, -3, 2])
