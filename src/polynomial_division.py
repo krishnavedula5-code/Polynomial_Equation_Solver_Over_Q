@@ -1,4 +1,4 @@
-from polynomial_class import Polynomial
+from src.polynomial_class import Polynomial
 
 def poly_division(f, g):
 
